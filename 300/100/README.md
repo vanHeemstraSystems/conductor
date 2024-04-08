@@ -32,6 +32,6 @@ You can access the UI & Server on your browser to verify that they are running c
 
 Conductor Server URL
 
-{{ server_host }}
+[{{ server_host }}](https://docs.conductor-oss.org/devguide/running/%7B%7B%20server_host%20%7D%7D)
 
 <img width="1482" alt="swagger" src="https://github.com/vanHeemstraSystems/conductor/assets/1499433/8cd38d2a-7504-434f-bfda-c711bafe4399">
