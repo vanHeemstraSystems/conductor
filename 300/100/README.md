@@ -42,4 +42,10 @@ http://localhost:5000/
 
 <img width="1277" alt="conductorUI" src="https://github.com/vanHeemstraSystems/conductor/assets/1499433/92218600-122a-40e6-885b-e7896ff7b5b5">
 
+## 400 - 4. Exiting Compose
+
+```Ctrl+c``` will exit docker compose.
+
+To ensure images are stopped execute: ```docker-compose down```.
+
 MORE ...
