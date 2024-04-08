@@ -10,3 +10,9 @@ A selection of ```docker-compose-*.yaml``` and ```config-*.properties``` files a
 | docker-compose-dynomite.yaml | 1. Conductor Server<br/>2. Elasticsearch<br/>3. UI<br/>4. Dynomite Redis for persistence |
 | docker-compose-postgres.yaml | 1. Conductor Server<br/>2. Elasticsearch<br/>3. UI<br/>4. Postgres persistence |
 | docker-compose-prometheus.yaml | Brings up Prometheus server |
+
+For example this will start the server instance backed by a PostgreSQL DB.
+
+```
+docker-compose -f docker-compose.yaml -f docker-compose-postgres.yaml up
+```
