@@ -20,6 +20,8 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
+## 600 - Combined Server & UI Docker Image
 
+See [README.md](./600/README.md)
 
 MORE ...
