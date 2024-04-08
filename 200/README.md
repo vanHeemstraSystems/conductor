@@ -1,3 +1,4 @@
 # 200 - Requirements
 
-- You will need at least 16 GB of memory to run Conductor in Docker.
+- Docker: https://docs.docker.com/get-docker/
+- Recommended host with CPU and RAM to be able to run multiple docker containers (at-least 16GB RAM)
