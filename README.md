@@ -5,6 +5,8 @@ Based on "Conductor" at https://conductor-oss.github.io/conductor/index.html
 
 Based on "Conductor on GitHub" at https://github.com/conductor-oss/conductor
 
+Based on "Conductor" at https://conductor-oss.org/
+
 Conductor is an event driven orchestration platform
 
 ## 100 - Introduction
