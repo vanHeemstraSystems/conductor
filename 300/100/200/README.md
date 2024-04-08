@@ -14,5 +14,5 @@ A selection of ```docker-compose-*.yaml``` and ```config-*.properties``` files a
 For example this will start the server instance backed by a PostgreSQL DB.
 
 ```
-docker-compose -f docker-compose.yaml -f docker-compose-postgres.yaml up
+$ docker-compose -f docker-compose.yaml -f docker-compose-postgres.yaml up
 ```
