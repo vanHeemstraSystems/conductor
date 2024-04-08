@@ -34,3 +34,4 @@ Conductor Server URL
 
 {{ server_host }}
 
+<img width="1482" alt="swagger" src="https://github.com/vanHeemstraSystems/conductor/assets/1499433/8cd38d2a-7504-434f-bfda-c711bafe4399">
